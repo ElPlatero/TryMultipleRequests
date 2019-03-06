@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Spielwiese.Core": {
+      "commandName": "Project",
+      "commandLineArgs": "--target http://svcdev-v:8080"
+    }
+  }
+}
