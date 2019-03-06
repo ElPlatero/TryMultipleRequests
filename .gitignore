@@ -15,5 +15,4 @@ nuget/
 *.suo
 *.useforbuildandremove
 /global.json
-/Systemtechnik.Vas.WebApis/Systemtechnik.Vas.WebApis.TicketStore/Properties/PublishProfiles
 /Properties
